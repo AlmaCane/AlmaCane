@@ -22,7 +22,7 @@ PostgreSQL
 RESTful APIs
 Authentication & Authorization
 ## Projects
-[BecomFree]
+### beComfree
 https://pf-indumentario-ecommerce-front.vercel.app/
 An e-commerce platform for apparel
 Collaborative project with a team of 8
