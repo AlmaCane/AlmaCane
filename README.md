@@ -1,5 +1,5 @@
 # Hi there, I'm Alma! 👋
-I'm a passionate Full Stack Developer with a knack for building web applications that make a difference. Welcome to my GitHub! Here you'll find a collection of projects I've worked on, ranging from e-commerce platforms to social networking apps.
+I'm a passionate Full Stack Developer with a knack for building web applications that make a difference. Welcome to my GitHub! Here you'll find a collection of projects I've worked on, ranging from e-commerce platforms to social networking apps
 
 ## About Me
 💻 Full Stack Developer <br/>
