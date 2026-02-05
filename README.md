@@ -21,12 +21,6 @@ MongoDB <br/>
 PostgreSQL <br/>
 RESTful APIs <br/>
 Authentication & Authorization <br/>
-## Projects
-### beComfree
-https://pf-indumentario-ecommerce-front.vercel.app/ <br/>
-An e-commerce platform for apparel <br/>
-Collaborative project with a team of 8 <br/>
-Backend development using PostgreSQL, MySQL, Express and Node.js
 
 ## Get in Touch
 Let's connect and discuss potential collaborations or just chat about tech! You can reach me via email or connect with me on LinkedIn.
